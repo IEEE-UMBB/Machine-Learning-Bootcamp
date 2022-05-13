@@ -43,8 +43,7 @@ brief exercise: **[An introduction to machine learning with scikit-learn](http:/
 * [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) ([more of their options](https://cloud.google.com/training/machinelearning-ai))
- * [Amazon AWS](https://aws.amazon.com/machine-learning/mlu/) ([more of their options](https://aws.amazon.com/machine-learning/learn/))
- *  [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
+ *  [Udacity -Introduction to Machine Learning ](https://www.udacity.com/course/intro-to-machine-learning--ud120)
  
 
  
