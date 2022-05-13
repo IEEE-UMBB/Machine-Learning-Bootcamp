@@ -64,4 +64,4 @@ brief exercise: **[An introduction to machine learning with scikit-learn](http:/
 
  Happy Learning!😊
  
- Feel free to reach us for any question you may have: [Linkedlin](https://www.linkedin.com/in/zehor-lahlah/)
+ Feel free to reach us for any question you may have: [Linkedin](https://www.linkedin.com/in/zehor-lahlah/)
