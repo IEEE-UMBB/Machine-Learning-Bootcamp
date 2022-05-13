@@ -6,7 +6,7 @@ What you need:
 * Machine learning algorithms.
 
 
-!(src= https://drive.google.com/file/d/1xWv09wTZXWyy8XYSC0pBI5zVI7I4pQ4m/view?usp=sharing "Welcome!")
+![Image](https://drive.google.com/file/d/1xWv09wTZXWyy8XYSC0pBI5zVI7I4pQ4m/view?usp=sharing "Welcome!")
 
 
 # Let's get started
