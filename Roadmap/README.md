@@ -1,4 +1,4 @@
-# Hello Machine Learning Entheasists!!👋
+# Hello Machine Learning Enthusiasts!!👋
 
 Machine learning is the ability of machine to learn without being explicitly programmed. We have the inputs and the outputs, and we look for the realtion between them. We got 3 types:
 * Supervised Learning:  where we have labeled data( known)
