@@ -16,7 +16,7 @@ What you need to know:
 
 # Let's get started
 
-# Pyton- Skill Up!
+# Python- Skill Up!
 * [W3achool-python](https://www.w3schools.com/python/default.asp)
 Ps: it's recommanded that you go through all the path including libraries use like panda and numpy. 
 * [Datacamp-Datascience with python](https://www.datacamp.com/tracks/data-scientist-with-python)
