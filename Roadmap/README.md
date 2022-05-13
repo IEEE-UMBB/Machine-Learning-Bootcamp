@@ -32,7 +32,9 @@ Ps: it's recommanded that you go through all the path including libraries use li
   * pandas
   * scikit-learn
   * matplotlib).
+  
  Or try:
+ 
 - [Google Colab](https://colab.research.google.com/) provides "free" GPUs ( no need to install anything, try directly from your browser).
 
 For datasets, use kaggle:
