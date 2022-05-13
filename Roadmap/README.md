@@ -1,6 +1,6 @@
 # Hello Machine Learning Entheasists!!👋
 
-Machine learning is the ability of machine to learn without being explicitly programmed. We have the inputs and the oytputs, and we look for the realtion between them. We got 3 types:
+Machine learning is the ability of machine to learn without being explicitly programmed. We have the inputs and the outputs, and we look for the realtion between them. We got 3 types:
 * Supervised Learning:  where we have labeled data( known)
 * Unsupervised Learning: where we have unlabeled data.
 * Reinforcement learning:the agent( the model)learn in envirenmnet the best startegy to perfoem an action based on rewards and punishements system!
