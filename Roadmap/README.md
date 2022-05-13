@@ -1,6 +1,11 @@
-# Machine Learning Roadmap
+# Hello Machine Learning Entheasists!!👋
 
-What you need:
+Machine learning is the ability of machine to learn without being explicitly programmed. We have the inputs and the oytputs, and we look for the realtion between them. We got 3 types:
+* Supervised Learning:  where we have labeled data( known)
+* Unsupervised Learning: where we have unlabeled data.
+* Reinforcement learning:the agent( the model)learn in envirenmnet the best startegy to perfoem an action based on rewards and punishements system!
+
+What you need to know:
 * Statistics( like calculus and linear algebra).
 * Python skills ( you can choose another language, but it's recommanded you start with python).
 * Machine learning algorithms.
@@ -32,9 +37,9 @@ Ps: it's recommanded that you go through all the path including libraries use li
 
 For datasets, use kaggle:
 *[Kaggle](https://www.kaggle.com/)
-*Learn how to use Kaggle (https://www.youtube.com/watch?v=O1P4r0Iy55U&t=1s)
 
-\
+*Learn how to use Kaggle(https://www.youtube.com/watch?v=O1P4r0Iy55U&t=1s)
+
 
 ## Let's go!
 
@@ -48,13 +53,13 @@ brief exercise: **[An introduction to machine learning with scikit-learn](http:/
 * [DataCamp- Machine learning for everyone](https://www.datacamp.com/courses/machine-learning-for-everyone)
 * [Kaggle-Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
 
-## More in-depth resources:
+## More in-depth resources✨:
 
-* [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) :bowtie:
+* [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) 
 * [Stanford CS229: Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 * [Harvard CS109: Data Science](https://cs109.github.io/2015/)
 * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/) ([more of their options](https://cloud.google.com/training/machinelearning-ai))
  *  [Udacity -Introduction to Machine Learning ](https://www.udacity.com/course/intro-to-machine-learning--ud120)
  
 
- 
+ Happy Learning!😊
