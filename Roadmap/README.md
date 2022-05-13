@@ -1,7 +1,19 @@
+# Machine Learning Roadmap
+
+What you need:
+* Statistics( like calculus and linear algebra).
+* Python skills ( you can choose another language, but it's recommanded you start with python).
+* Machine learning algorithms.
+
+
+![Alt text](https://drive.google.com/file/d/1xWv09wTZXWyy8XYSC0pBI5zVI7I4pQ4m/view?usp=sharing "Welcome!")
+
+
 # Let's get started
 
 # Pyton- Skill Up!
 * [W3achool-python](https://www.w3schools.com/python/default.asp)
+Ps: it's recommanded that you go through all the path including libraries use like panda and numpy. 
 * [Datacamp-Datascience with python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 
@@ -29,7 +41,6 @@ For datasets, use kaggle:
 **[Learn how to use Jupyter Notebook](http://opentechschool.github.io/python-data-intro/core/notebook.html) (5-10 minutes).** (You can [learn by screencast](https://www.youtube.com/watch?v=qb7FT68tcA8) instead.)
 
 brief exercise: **[An introduction to machine learning with scikit-learn](http://scikit-learn.org/stable/tutorial/basic/tutorial.html)**. Do it in `ipython` or a Jupyter Notebook, coding along and executing the code in a notebook.
-
 
 
 ##   ML Practical Resources:
