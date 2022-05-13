@@ -32,13 +32,13 @@ Ps: it's recommanded that you go through all the path including libraries use li
   * pandas
   * scikit-learn
   * matplotlib).
-   #OR
+  
 - [Google Colab](https://colab.research.google.com/) provides "free" GPUs ( no need to install anything, try directly from your browser).
 
 For datasets, use kaggle:
 *[Kaggle](https://www.kaggle.com/)
 
-*Learn how to use Kaggle(https://www.youtube.com/watch?v=O1P4r0Iy55U&t=1s)
+Learn how to use Kaggle(https://www.youtube.com/watch?v=O1P4r0Iy55U&t=1s)
 
 
 ## Let's go!
@@ -63,3 +63,5 @@ brief exercise: **[An introduction to machine learning with scikit-learn](http:/
  
 
  Happy Learning!😊
+ 
+ Feel free to reach us for any question you may have: [Linkedlin](https://www.linkedin.com/in/zehor-lahlah/)
